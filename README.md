@@ -1,4 +1,4 @@
-1. Make sure you have Node on your comp and the Expo on your phone.
+1. Make sure you have Node (https://nodejs.org/en/) on your computer and the Expo (https://expo.io/) on your phone.
 
 2. Clone this git repo: https://github.com/pbhattacharyya/picpong-prototype
 
